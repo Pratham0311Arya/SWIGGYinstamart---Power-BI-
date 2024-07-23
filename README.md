@@ -2,7 +2,7 @@
 ## Introduction
 In my latest project, I gathered data from several Swiggy Instamart outlets, conducted thorough analysis, and created an interactive dashboard using Power BI. The project involved tasks such as data cleaning, visualization, and dashboard creation. The project aims to provide valuable information for improving marketing strategies, product offerings, and operational efficiency.
 
-![Screenshot (195)](https://github.com/user-attachments/assets/737de301-9443-4d90-91c0-b68d90a58919)
+![Screenshot (195)](https://github.com/user-attachments/assets/c59cb179-cd94-4fb0-87ef-684e0fa88dfe)
 
 Here are the key analyses performed in my project:
 
